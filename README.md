@@ -1,6 +1,14 @@
 # armhf-x2go
 Armhf binaries for x2go (ARMv7)
 
+#### Versions
+
+x2go-server: 4.0.1.19
+
+nx-libs: 3.5.0.32
+
+x2go-agent: 3.5.0.32
+
 ## Installation
 
 #### Clone the repo
